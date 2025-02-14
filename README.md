@@ -5,7 +5,7 @@
     <table align="center" style="width: 100%;border-collapse: collapse; border: none; ">
         <tr>
             <td style="text-align: left; border: none;">
-                <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4xdDV6Z3dqanBqdWYwcGp0dWhmbGFuand0MHV2MGp1MHd4NzBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" />
+                <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp3M2p1YXM4dGM2dzdiaHdiamRxZ2s1ZTBvNnU2aGM2Mmh5NDFzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.gif" />
             </td>
             <td style="text-align: center;">
                 <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
