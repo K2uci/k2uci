@@ -2,9 +2,9 @@
 <br clear="both">
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
-    <table style="width: 100%;" border="0">
+    <table style="width: 100%;border-collapse: collapse; border: none; ">
         <tr>
-            <td style="text-align: left;">
+            <td style="text-align: left; border: none;">
                 <img height="180" src="https://i.imgflip.com/65efzo.gif" />
             </td>
             <td style="text-align: center;">
