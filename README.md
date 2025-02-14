@@ -35,15 +35,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  /> -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanc0Y2s4bDY2dTFkaHcyZzM4MzEyeGpmOTd1eHNvd2Fqdm01emtydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/K2uci/K2uci/output/snake.svg" alt="Snake animation" />
-
-###
