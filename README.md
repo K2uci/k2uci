@@ -5,7 +5,7 @@
     <table align="center" style="width: 100%;border-collapse: collapse; border: none; ">
         <tr>
             <td style="text-align: left; border: none;">
-                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+                <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4xdDV6Z3dqanBqdWYwcGp0dWhmbGFuand0MHV2MGp1MHd4NzBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" />
             </td>
             <td style="text-align: center;">
                 <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
@@ -18,13 +18,13 @@
     <table align="center" style="width: 100%;" border="0">
         <tr>
             <td style="text-align: left;">
-                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+                <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjaTRkejQ0cmRqb2UyZmxkZTZ1NXBlbXZiMXN2dzNrazJuOHF1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" />
             </td>
             <td style="text-align: center;">
                 <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
             </td>
             <td style="text-align: right;">
-                <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4aTNvOHFoZmNtbmhrMHQ3cmc3eHd0cWtwam9iMjVmbmo0MDB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" />
+                <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NjeWM1ZWFycTJvOWY3ZWRrMjRtNmk4YXUyaTU1anQ1azEyNm9keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" />
             </td>
         </tr>
     </table>
