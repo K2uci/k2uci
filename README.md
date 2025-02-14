@@ -1,21 +1,11 @@
 <h2 align="center">👾 !! Hola Mundo !! 👾</h2>
 <br clear="both">
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: space-evenly;">
-        <div>
-            <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-        </div>
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
-        </div>
-        <div>
-            <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-        </div>
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
-    </div>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
+    <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
+    <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 ###
 
