@@ -1,4 +1,4 @@
-<h2 align="center">👾 !! Hola Mundo !! 👾</h2>
+<h1 align="center">👾 !! Hola Mundo !! 👾</h1>
 <br clear="both">
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
@@ -11,7 +11,7 @@
                 <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
             </td>
             <td style="text-align: right;">
-                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+                <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlmZ2d4Nmx1cXZqbDZnZG8yM2cwNmN0eDFlbXVtcWowdjYzOWRwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" />
             </td>
         </tr>
     </table>
@@ -31,11 +31,11 @@
 </div>
 
 
-<h3 align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones
+<p align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones
     innovadoras 💡 y romper barreras tecnológicas. Aquí encontrarás mis proyectos, ideas locas 🤪 y un poco de magia
-    digital ✨. ¡Siempre ando buscando chamba! 🚀</h3>
+    digital ✨. ¡Siempre ando buscando chamba! 🚀</p>
 
-###
+
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
