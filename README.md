@@ -1,8 +1,8 @@
 <h2 align="center">👾 !! Hola Mundo !! 👾</h2>
 <br clear="both">
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
-    <table style="width: 100%;border-collapse: collapse; border: none; ">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
+    <table align="center" style="width: 100%;border-collapse: collapse; border: none; ">
         <tr>
             <td style="text-align: left; border: none;">
                 <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
@@ -15,7 +15,7 @@
             </td>
         </tr>
     </table>
-    <table style="width: 100%;" border="0">
+    <table align="center" style="width: 100%;" border="0">
         <tr>
             <td style="text-align: left;">
                 <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
