@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="400" width="800" src="./BannerGitHub.jpeg"  />
+  <img height="300" width="800" src="./BannerGitHub.jpeg"  />
 </div>
 
 ###
