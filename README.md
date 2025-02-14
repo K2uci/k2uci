@@ -2,22 +2,21 @@
 <br clear="both">
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <div style="background-color: black; display: flex;flex-direction: row; gap: 1rem; justify-content: space-evenly;">
+    <div style="display: flex; flex-direction: row; gap: 1rem; justify-content: space-evenly;">
         <div>
             <img height="200" src="https://i.imgflip.com/65efzo.gif" />
         </div>
-        <img src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-            height="200" alt="stats graph" /> <br>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
+        </div>
         <div>
             <img height="200" src="https://i.imgflip.com/65efzo.gif" />
         </div>
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-            height="200" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
     </div>
 </div>
-
 ###
 
 <h3 align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones
