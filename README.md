@@ -1,11 +1,8 @@
 <h2 align="center">👾 !! Hola Mundo !! 👾</h2>
 <br clear="both">
-<style>
-
-</style>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <div style="background-color: black; display: flex; gap: 1rem; justify-content: space-evenly;">
+    <div style="background-color: black; display: flex;flex-direction: row; gap: 1rem; justify-content: space-evenly;">
         <div>
             <img height="200" src="https://i.imgflip.com/65efzo.gif" />
         </div>
