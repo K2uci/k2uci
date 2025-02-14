@@ -1,21 +1,20 @@
 <h2 align="center">👾 !! Hola Mundo  !! 👾</h2>
-<br clear="both">
+<br clear="both"> 
 
-<div align="center">
-  <img height="250" width="650" src="./BannerGitHub.jpeg"  />
-</div>
+<!-- <div align="center"> -->
+  <!-- <img height="250" width="650" src="./BannerGitHub.jpeg"  /> -->
+<!-- </div> -->
+###
+
+<h3 align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones innovadoras 💡 y romper barreras tecnológicas. Aquí encontrarás mis proyectos, ideas locas 🤪 y un poco de magia digital ✨. ¡Siempre ando buscando chamba! 🚀</h3>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
-
-###
-
-<h6 align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones innovadoras 💡 y romper barreras tecnológicas. Aquí encontrarás mis proyectos, ideas locas 🤪 y un poco de magia digital ✨. ¡Siempre ando buscando chamba! 🚀</h6>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
