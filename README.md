@@ -2,12 +2,20 @@
 <br clear="both">
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
-    <div width="800">
-        <img height="180" src="https://i.imgflip.com/65efzo.gif" />
-        <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
-        <img height="180" src="https://i.imgflip.com/65efzo.gif" />
-    </div>
-    <table style="width: 100%;">
+    <table style="width: 100%;" border="0">
+        <tr>
+            <td style="text-align: left;">
+                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+            </td>
+            <td style="text-align: center;">
+                <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+            </td>
+            <td style="text-align: right;">
+                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+            </td>
+        </tr>
+    </table>
+    <table style="width: 100%;" border="0">
         <tr>
             <td style="text-align: left;">
                 <img height="180" src="https://i.imgflip.com/65efzo.gif" />
