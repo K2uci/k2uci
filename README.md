@@ -5,26 +5,26 @@
     <table style="width: 100%;border-collapse: collapse; border: none; ">
         <tr>
             <td style="text-align: left; border: none;">
-                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
             </td>
             <td style="text-align: center;">
                 <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
             </td>
             <td style="text-align: right;">
-                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
             </td>
         </tr>
     </table>
     <table style="width: 100%;" border="0">
         <tr>
             <td style="text-align: left;">
-                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
             </td>
             <td style="text-align: center;">
-                <img height="184" width="520" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+                <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
             </td>
             <td style="text-align: right;">
-                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+                <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFsMjI5NjhiN3Nsb3R1MTduNG5jYmdzcHdhN2s1NGptdTNlNWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
             </td>
         </tr>
     </table>
