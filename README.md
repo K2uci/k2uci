@@ -1,4 +1,4 @@
-<h2 align="left">👾 !! Hola Mundo  !! 👾</h2>
+<h2 align="center">👾 !! Hola Mundo  !! 👾</h2>
 <br clear="both">
 
 <div align="center">
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+<!--   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  /> -->
 </div>
 
 ###
