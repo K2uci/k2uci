@@ -7,13 +7,21 @@
         <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
         <img height="180" src="https://i.imgflip.com/65efzo.gif" />
     </div>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <img height="180" src="https://i.imgflip.com/65efzo.gif" />
-        <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-        <img height="180" src="https://i.imgflip.com/65efzo.gif" />
-    </div>
+    <table style="width: 100%;">
+        <tr>
+            <td style="text-align: left;">
+                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+            </td>
+            <td style="text-align: center;">
+                <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+            </td>
+            <td style="text-align: right;">
+                <img height="180" src="https://i.imgflip.com/65efzo.gif" />
+            </td>
+        </tr>
+    </table>
 </div>
-###
+
 
 <h3 align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones
     innovadoras 💡 y romper barreras tecnológicas. Aquí encontrarás mis proyectos, ideas locas 🤪 y un poco de magia
