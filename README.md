@@ -1,7 +1,4 @@
 <h2 align="left">👾 !! Hola Mundo  !! 👾</h2>
-
-###
-
 <br clear="both">
 
 <div align="center">
