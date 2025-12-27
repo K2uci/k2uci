@@ -1,74 +1,101 @@
-<h1 align="center">👾 !! Hola Mundo !! 👾</h1>
-<br clear="both">
+<h1 align="center">Elieser Hernandez</h1>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 1rem;">
-    <table align="center" style="width: 100%;border-collapse: collapse; border: none; ">
-        <tr>
-            <td style="text-align: left; border: none;">
-                <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp3M2p1YXM4dGM2dzdiaHdiamRxZ2s1ZTBvNnU2aGM2Mmh5NDFzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.gif" />
-            </td>
-            <td style="text-align: center;">
-                <img height="184" src="https://github-readme-stats.vercel.app/api?username=K2uci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
-            </td>
-            <td style="text-align: right;">
-                <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlmZ2d4Nmx1cXZqbDZnZG8yM2cwNmN0eDFlbXVtcWowdjYzOWRwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" />
-            </td>
-        </tr>
-    </table>
-    <table align="center" style="width: 100%;" border="0">
-        <tr>
-            <td style="text-align: left;">
-                <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjaTRkejQ0cmRqb2UyZmxkZTZ1NXBlbXZiMXN2dzNrazJuOHF1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" />
-            </td>
-            <td style="text-align: center;">
-                <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-            </td>
-            <td style="text-align: right;">
-                <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NjeWM1ZWFycTJvOWY3ZWRrMjRtNmk4YXUyaTU1anQ1azEyNm9keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" />
-            </td>
-        </tr>
-    </table>
-</div>
+<p align="center">
+  <strong>Offensive Penetration Tester · Web, APIs & Infrastructure</strong><br/>
+  Security-focused engineer with hands-on experience in offensive security, bug bounty programs and automation.
+</p>
 
+<p align="center">
+  <a href="mailto:astroreal031@gmail.com">astroreal031@gmail.com</a> · 
+  <a href="https://wa.me/5359805123">WhatsApp</a> · 
+  Remote
+</p>
 
-<p align="left">Soy un desarrollador rebelde que transforma ☕ café en código. Apasionado por crear soluciones
-    innovadoras 💡 y romper barreras tecnológicas. Aquí encontrarás mis proyectos, ideas locas 🤪 y un poco de magia
-    digital ✨. ¡Siempre ando buscando chamba! 🚀</p>
+---
 
+## 👋 About Me
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"
-        alt="typescript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"
-        alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-        alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
-        alt="python logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"
-        alt="csharp logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"
-        alt="django logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"
-        alt="nodejs logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"
-        alt="postgresql logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-</div>
+I am an **offensive security professional** focused on identifying, exploiting, and clearly reporting real-world security vulnerabilities in web applications, APIs, and infrastructure.
 
-###
+My work combines:
+- Manual, methodology-driven testing
+- Automation using scripting
+- Clear technical and executive-level reporting
+
+I am especially interested in **Pentesting teams, Red Team environments, and security research**, where offensive skills directly contribute to reducing business risk.
+
+---
+
+## 🛡️ Areas of Focus
+
+- Web Application Penetration Testing
+- API Security Testing
+- Vulnerability Research & Exploitation
+- Bug Bounty Programs
+- Security Automation
+- Technical & Executive Reporting
+
+---
+
+## 🧰 Technical Stack
+
+### 🔐 Security & Pentesting
+- OWASP Top 10, PTES, MITRE ATT&CK
+- Burp Suite, Nmap, Metasploit
+- SQLMap, Nuclei, FFUF, Amass
+- Hashcat, John the Ripper
+
+### 💻 Programming & Scripting
+- Python (automation, exploits)
+- Bash
+- JavaScript
+- SQL
+
+### ⚙️ Engineering & Dev Tools
+- Docker
+- Node.js
+- PostgreSQL
+- Django
+- React
+- Tailwind CSS
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K2uci&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 🎯 What You’ll Find Here
+
+- Security-related tools and scripts
+- Proof-of-concept exploits
+- Automation for reconnaissance and testing
+- Personal research and learning projects
+- Experiments around offensive security and software engineering
+
+---
+
+## 🌍 Languages
+
+- Spanish — Native
+- English — B1 (technical reading and reporting)
+
+---
+
+## 📫 Contact
+
+If you are interested in collaboration, security research, or offensive security roles, feel free to reach out:
+
+- 📧 Email: astroreal031@gmail.com  
+- 💬 WhatsApp: +53 59805123  
+
+---
+
+<p align="center">
+  <em>“Security is not a feature — it’s a continuous process.”</em>
+</p>
