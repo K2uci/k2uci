@@ -61,17 +61,6 @@ Me interesa especialmente **trabajar en equipos de Pentesting, entornos Red Team
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K2uci&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
-</p>
-
-*Nota:* Si los gráficos no se muestran, verifica que tu usuario de GitHub `K2uci` esté correcto y que el perfil no sea privado. A veces los stats no cargan si hay limitaciones de privacidad o errores temporales en la API de GitHub.
-
----
-
 ## 🎯 Qué Encontrarás Aquí
 
 - Herramientas y scripts relacionados con seguridad
