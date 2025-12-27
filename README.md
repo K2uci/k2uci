@@ -1,57 +1,57 @@
 <h1 align="center">Elieser Hernandez</h1>
 
 <p align="center">
-  <strong>Offensive Penetration Tester · Web, APIs & Infrastructure</strong><br/>
-  Security-focused engineer with hands-on experience in offensive security, bug bounty programs and automation.
+  <strong>Tester de Penetración Ofensiva · Web, APIs e Infraestructura</strong><br/>
+  Ingeniero enfocado en seguridad con experiencia práctica en seguridad ofensiva, programas de bug bounty y automatización.
 </p>
 
 <p align="center">
   <a href="mailto:astroreal031@gmail.com">astroreal031@gmail.com</a> · 
   <a href="https://wa.me/5359805123">WhatsApp</a> · 
-  Remote
+  Remoto
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Sobre Mí
 
-I am an **offensive security professional** focused on identifying, exploiting, and clearly reporting real-world security vulnerabilities in web applications, APIs, and infrastructure.
+Soy un **profesional de seguridad ofensiva** enfocado en identificar, explotar y reportar claramente vulnerabilidades reales en aplicaciones web, APIs e infraestructura.
 
-My work combines:
-- Manual, methodology-driven testing
-- Automation using scripting
-- Clear technical and executive-level reporting
+Mi trabajo combina:
+- Pruebas manuales basadas en metodologías
+- Automatización mediante scripting
+- Reportes claros a nivel técnico y ejecutivo
 
-I am especially interested in **Pentesting teams, Red Team environments, and security research**, where offensive skills directly contribute to reducing business risk.
-
----
-
-## 🛡️ Areas of Focus
-
-- Web Application Penetration Testing
-- API Security Testing
-- Vulnerability Research & Exploitation
-- Bug Bounty Programs
-- Security Automation
-- Technical & Executive Reporting
+Me interesa especialmente **trabajar en equipos de Pentesting, entornos Red Team y en investigación de seguridad**, donde las habilidades ofensivas contribuyen directamente a reducir riesgos para el negocio.
 
 ---
 
-## 🧰 Technical Stack
+## 🛡️ Áreas de Especialización
 
-### 🔐 Security & Pentesting
+- Pruebas de Penetración en Aplicaciones Web
+- Seguridad en APIs
+- Investigación y Explotación de Vulnerabilidades
+- Programas de Bug Bounty
+- Automatización de Seguridad
+- Reportes Técnicos y Ejecutivos
+
+---
+
+## 🧰 Stack Técnico
+
+### 🔐 Seguridad y Pentesting
 - OWASP Top 10, PTES, MITRE ATT&CK
 - Burp Suite, Nmap, Metasploit
 - SQLMap, Nuclei, FFUF, Amass
 - Hashcat, John the Ripper
 
-### 💻 Programming & Scripting
-- Python (automation, exploits)
+### 💻 Programación y Scripting
+- Python (automatización, exploits)
 - Bash
 - JavaScript
 - SQL
 
-### ⚙️ Engineering & Dev Tools
+### ⚙️ Herramientas de Ingeniería y Desarrollo
 - Docker
 - Node.js
 - PostgreSQL
@@ -61,35 +61,37 @@ I am especially interested in **Pentesting teams, Red Team environments, and sec
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Actividad en GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=K2uci&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=K2uci&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
 </p>
 
----
-
-## 🎯 What You’ll Find Here
-
-- Security-related tools and scripts
-- Proof-of-concept exploits
-- Automation for reconnaissance and testing
-- Personal research and learning projects
-- Experiments around offensive security and software engineering
+*Nota:* Si los gráficos no se muestran, verifica que tu usuario de GitHub `K2uci` esté correcto y que el perfil no sea privado. A veces los stats no cargan si hay limitaciones de privacidad o errores temporales en la API de GitHub.
 
 ---
 
-## 🌍 Languages
+## 🎯 Qué Encontrarás Aquí
 
-- Spanish — Native
-- English — B1 (technical reading and reporting)
+- Herramientas y scripts relacionados con seguridad
+- Exploits como prueba de concepto
+- Automatización para reconocimiento y pruebas
+- Proyectos personales de investigación y aprendizaje
+- Experimentos sobre seguridad ofensiva e ingeniería de software
 
 ---
 
-## 📫 Contact
+## 🌍 Idiomas
 
-If you are interested in collaboration, security research, or offensive security roles, feel free to reach out:
+- Español — Nativo
+- Inglés — B1 (lectura técnica y reportes)
+
+---
+
+## 📫 Contacto
+
+Si te interesa colaborar, investigación de seguridad o roles en seguridad ofensiva, no dudes en contactarme:
 
 - 📧 Email: astroreal031@gmail.com  
 - 💬 WhatsApp: +53 59805123  
@@ -97,5 +99,5 @@ If you are interested in collaboration, security research, or offensive security
 ---
 
 <p align="center">
-  <em>“Security is not a feature — it’s a continuous process.”</em>
+  <em>“La seguridad no es una característica — es un proceso continuo.”</em>
 </p>
